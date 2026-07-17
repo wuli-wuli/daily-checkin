@@ -1,0 +1,12 @@
+{
+  "name": "daily-checkin",
+  "version": "1.0.0",
+  "description": "每日打卡 - 多端同步",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
